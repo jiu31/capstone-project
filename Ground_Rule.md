@@ -1,4 +1,4 @@
-# 🌟 팀 19의 Ground Rule
+# 🌟 Ground Rule
 
 ## 📝 회의
 1. 회의는 짧고 굵게.
